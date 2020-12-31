@@ -1,0 +1,1087 @@
+Harry Potter AI by jack-debug
+https://www.jack-debug.github.io/harrypotterai/
+
+10 samples at 0.7 temperature, trained for 7,000 steps on OpenAI's GPT-2
+
+Note: This is the basic generation. The default temperature (how crazy the text the AI makes) is 0.7 so the AI is making safer predictions.
+---------------------------------------------------
+“But then, you know,” said Dumbledore, “you needn’t 
+know anything about the Sorcerer’s Stone to get started, 
+Harry. The information is out there, don’t you think?” 
+
+“Is it?” 
+
+“Yes, it is,” said Dumbledore. “And it is a question 
+how well you discover it. Here, little boy, here we go: 
+Let’s get to bed.” 
+
+“No, sir, I want to know how you found out about 
+the Stone,” Harry said. “We need to keep this 
+honest, Dumbledore.” 
+
+“I was starting to think you would, Harry,” said 
+Dumbledore, with a slight smile. “Well, if you have 
+never been taunted, you will be surprised to hear 
+what I have to say. I have had a number of 
+victims who have come to me for the Stone, but 
+they have all claimed that they were acting on 
+their behalf, and I have no proof at all that the 
+Stone was ever offered to them.” 
+
+Harry winced. 
+
+Page | 474 Harry Potter and the Half Blood Prince - J.K. Rowling 
+
+
+
+
+“I should think you had better not tell the 
+others that the Stone is a lie,” said Dumbledore. 
+
+“I won’t,” said Harry fiercely. “Dumbledore’s right, I am 
+not telling anyone that the Stone is a lie. But — ” 
+
+“You’re not arguing with me, are you?” said 
+Dumbledore gently, as though he were a teacher 
+teaching a recess. “Perhaps you are afraid that 
+some of the others might try to take the 
+Stone for you if you remain silent?” 
+
+“No, no, not at all!” said Harry. “I know that the 
+Stone is a lie, I just don’t know how well it’s a 
+dangers-from-scratch thing to believe.” 
+
+“Well, then, you will have to tell others, Harry,” said 
+Dumbledore. “You will have to tell people who 
+believe, Harry, that there is such a thing as a 
+dangers-from-scratch thing, and that you must not 
+blame them if they catch you cheating!” 
+
+“Er — right,” said Harry, feeling both humiliated and 
+embarrassed. “Yeah ... thanks, Dad.” 
+
+“And you must tell them that I have written about the 
+Stone in the Daily Prophet, Harry, and not merely 
+in passing,” said Dumbledore. “The Stone, in 
+fact, will be your friend in the end. And I think, if 
+you are going to do it, by all means, but I think it 
+would be prudent to guard it carefully.” 
+
+Page | 475 Harry Potter and the Half Blood Prince - J.K. Rowling 
+
+
+
+
+“Right,” said Harry again, aware that he had once 
+expelled a teacher for doing something that he had 
+never done before and painfully aware that he had once 
+inadvertently upset a teacher. 
+
+“Don’t worry, Harry,” said Dumbledore, “there’s 
+nothing to worry about.” 
+
+“It’s just — ” 
+
+“It was just my fault,” said Harry, and he used both 
+of his fists to punch Dumbledore hard in the face. 
+
+“Don’t apologize,” said Dumbledore, with a little smile 
+on his face. “I was only teasing.” 
+
+“No,” said Harry, whose anger was now so strong that 
+he was willing to punch anyone who looked at him 
+with malicious intent. “No, it wasn’t. But I’d still like 
+to know how you came by that Stone, Dumbledore.” 
+
+He could see the small smile twisting Dumbledore ’s face 
+as he stretched out his hand in answer. 
+
+“Yes,” said Dumbledore, “a very interesting story, 
+Harry, I must say.” 
+
+“Where?
+====================
+The twins’ house 
+was in the very heart of London. The front door 
+stood ajar, and on the second floor a long corridor 
+led to a series of wooden chairs arranged in a 
+straight line, their occupants sleeping in rows. A 
+sallow-faced man was holding an old-fashioned 
+wool hat in his hand and peering down at them 
+scowlingly. 
+
+“If they’re suffering,” said the man, looking 
+suspiciously out of the window at the darkening 
+streaks on the horizon, “it’s not a good sign for the 
+international 
+
+Page | 113 Harry Potter and the Deathly Hallows - J.K. Rowling 
+
+
+
+
+coalition.” 
+
+
+
+“What are you talking about, sir?” asked Harry, 
+trying to avoid the man’s eye. 
+
+“Remember, Harry,” said the man, his eyes now 
+twinkling, “the man’s out-of-bounds. If I hear 
+you’re using the Cloak again I’ll know you haven’t 
+wanted help from a friend.” 
+
+“I don’t need help from a friend!” said Harry 
+stubbornly. 
+
+“I hear you also happen to be a parselmouth,” said 
+the balding man. “Take the cloak, please.” 
+
+Harry complied with the man’s odd addition of 
+cloak and scarf, which he had not been 
+busy explaining to Hermione. He took off the 
+most of the man’s wizard’s hats and threw 
+them over his head into the cloak. Then he and the 
+other two slipped out of the cloak and up the 
+corridor. 
+
+“Are you going to tell me what happened?” demanded 
+the balding man. 
+
+“Got to, mate,” said Harry. “Told her I didn’t 
+want no one else to know. But she won’t tell me 
+what we can and can’t have done. All I know is, 
+she was right, I didn’t try to stop the Death Eaters 
+anything, and now — ” 
+
+“No one needs to know,” said the balding man. 
+
+“Listen, Harry,” said the man, his eyes now 
+twinkling, “any of you who know how the Cloak 
+works can explain how it connects to the will on 
+which Voldemort was relying. You know as I do 
+that the Cloak acts as a Disillusionment Charm, it 
+keeps you out of someone else’s mind, it’s all 
+understood, you just need to have looked at the 
+will and know where he hid it. But I’m afraid 
+that won’t do, unless you can explain how you got 
+it.” 
+
+
+
+Page | 114 
+
+
+
+Harry Potter and the Deathly Hallows - J.K. Rowling 
+
+
+
+
+Harry was not sure what was to be done, but he 
+had to go. 
+
+“Very well,” said the man, “I will take your word for it 
+that you gave the Cloak to Voldemort. Then I shall 
+consider the evidence.” 
+
+He reached into the man’s hand and took out a 
+suit of emerald velvet. The man grunted and 
+turned away without another word. 
+
+The next few days were some of Harry’s worst at 
+Hogwarts. The staff and students were talking about 
+the next time he would see them, and he heard 
+many whispering about the next time he would go 
+back to Hogwarts. He and Hermione were both 
+thinking about leaving too. He knew that she thought 
+it was the right thing to do and was glad to be 
+protesting against her — but he was horrified to see 
+how much her influence, and how much her fear, 
+made her willing to go to such lengths to protect 
+her friends. Harry’s feelings toward Hermione were 
+nowhere near as strong as they could have been, 
+and yet he could not think of anyone who had 
+ever been less willing to stand up to him, or more 
+desperate to do so. He could not even think of anyone 
+====================
+I always knew Dumbledore was an old fool, but 
+what on earth’s he doing? Why did he send for me, if he 
+thought I was going to try and kill him off?” 
+
+“What’s the matter?” said Hermione, looking 
+thoroughly perplexed. 
+
+“He thinks I’m going to try and kill him,” said 
+Harry. “He thinks I’m trying to take over the 
+Order.” 
+
+“But we don’t need an Order to work — ” 
+
+“I’m sorry, but that’s the point, isn’t it?” said 
+Harry. “We don’t need an Order to do anything. 
+
+Why don’t we just have the police do it?” 
+
+“But that would be impossible, of course,” said 
+Hermione. “The Ministry would be perfectly happy 
+if you just disappeared right under their noses.” 
+
+Page | 663 Harry Potter and the Deathly Hallows - J.K. Rowling 
+
+
+
+
+“Of course I wouldn’t,” said Harry. “I’d rather it was 
+me doing the fighting instead of him, that way I’ve got 
+the chance to use all my powers more effectively.” 
+
+“But you’ve got to do the fighting?” 
+
+“No, I can’t Order yet, I haven’t got the authority. 
+But I think I can apply for a new Office of 
+Services, and that would be where I start — ” 
+
+“What Office?” 
+
+“The one I was on when you left me in the car,” 
+said Harry. “The one I was Head of the Department 
+of Mysteries.” 
+
+There was a pause in which Dumbledore stared at 
+him, apparently considering him. Then he said, “Yes, 
+that’s right. You’ll have the power to come and go, 
+Harry. You’ll have your own office, and I will be 
+Page | 664 Harry Potter and the Deathly Hallows - J.K. Rowling 
+
+
+
+
+certainly more than he will be, because of what you 
+have done.” 
+
+“I don’t know who I am, I don’t know what I’m doing, 
+and I don’t want to start now, it would take too long 
+and I don’t want to waste it,” Dumbledore went on, 
+and for the second time he looked at Harry. “Yes, 
+Harry, I am sure you know better than I do, and so 
+I say, Order of Merlin, I am going to keep you 
+safe while you wait for the Ministry to sort out 
+what happened.” 
+
+“I — I don’t — ” 
+
+“What you need, Harry, is someone who is trusted. A 
+friend who trusts you, and who can reassure 
+you that I will do it for you. A friend who can 
+make it happen, a friend who can keep your 
+orders straight. A friend who is honestly in the 
+worke if you will not be frightened. A friend who can 
+make sure you are taken care of, while you wait 
+for the Ministry to sort out its mess. A friend 
+who is really up to no good, who has been 
+conned.” 
+
+Dumbledore drew a deep breath as though to 
+force himself through a tough subject. 
+
+"... and I am sorry to say, Harry, but that friend of 
+your whose name I would like to use — ” 
+
+“What?” 
+
+“ — has decided to change his mind, and I must 
+admit that I have been surprised, I had hoped that 
+this would happen, that he would simply give in. 
+Certainly, he has chosen to remain in Lord 
+Voldemort’s employ, and that friend of his must 
+be as good a friend as I have ever had. I wish him all 
+
+Page | 665 Harry Potter and the Deathly Hallows - J.K. Rowling 
+
+
+
+
+well, and I hope he will not be tempted to do 
+something foolish.” 
+
+“I —
+====================
+The 
+Dursleys are a highly dysfunctional, dysfunctional family, and 
+it would be remiss to deny them a helping of 
+confidence. Dudley is a bad egg, Harry has had to 
+tell him so many times that he can tell which of 
+the Dursleys he is talking about without 
+even noticing. 
+
+Page | 48 Harry Potter and the Philosophers Stone - J.K. Rowling 
+
+
+
+
+Dudley has beaten Harry badly at Quidditch 
+tournament matches, losing by an hour—he is a 
+fool) and has failed to win any medal. As for 
+Ron, he has been eliminated from the tournament three 
+times. He has also ruined any chance Harry might 
+have had of meeting Hermione by vanishing from 
+the house, never mind telling her that he thinks she 
+is his godmother. 
+
+“You know, if he hadn’t been such a letch — ” said 
+Ron, looking slightly less grim. 
+
+They had reached the foot of the marble staircase 
+and were climbing the ladder into the next 
+dungeon. The corridor was empty except for a small 
+crowd of people who had gathered around the 
+calloused hands of Professor McGonagall. They 
+were talking quietly together, making their way 
+up to the seventh floor, when Harry suddenly 
+turned up. 
+
+“Hello,” he said. “What are you all up to?” 
+
+“More or less what we wanted to talk about,” said 
+Professor McGonagall, waving her wand and 
+forcing the crowd to disperse. “I’ve told you all 
+that will be happening tonight. Tonight,” she 
+added, rounding on Harry, “you are not to go 
+near the fountain. Miss Granger, you will leave the 
+grounds.” 
+
+Harry ignored this. He felt like a slightly nervous 
+teenager; maybe he was a bit overawed by the 
+storm of publicity that had flown around him, maybe 
+it had taken his breath away. 
+
+“Right then,” Professor McGonagall said, smiling, “let’s see 
+you all in this class. I shall act as your teacher.” 
+
+
+
+Page | 49 Harry Potter and the Philosophers Stone - J.K. Rowling 
+
+
+
+
+And she strode off toward the doors into the 
+dungeon. 
+
+Harry, Ron, and Hermione stood up at once, looking 
+happier than they had done throughout their 
+lessons, and together they stood up to leave. 
+
+“I think I’ve given a good lesson,” said Professor 
+McGonagall, closing the door quietly behind them and 
+walking through the throng. “Now, when you turn 
+Page | 50 Harry Potter and the Philosophers Stone - J.K. Rowling 
+
+
+
+
+round, take a good look at the schedule to which 
+you are all being subjected. I am not talking about 
+nutter exercises or tests; just a little bit of 
+stuff about how long it takes to make a potion or 
+whatnot. I am talking about your detentions, Miss 
+Granger. They will be brief — just a bit longer, 
+you know — and then you will have to answer 
+the questions correctly.” 
+
+Professor McGonagall turned back into the 
+calloused walls of the dungeon. People jostled 
+them as they passed, hurrying to get a good look at 
+Harry, who waved good night and hurried off to 
+the window to wait for the crowd to take a 
+turn. It did not come, though — for about half an 
+hour at least, he was merely passing through 
+more doors, some of them locked, while the crowd 
+swelled to include several very old witches and 
+wizards, who were talking quietly and 
+exchanging gossip. He wondered whether the crowd 
+was nervous; if he were not careful, he might lose his 
+head. ... 
+
+He had forgotten what it felt like to be a school 
+teacher, or at least something that was vaguely 
+human. He and Ron had spent a lot of time discussing 
+the future of Hogwarts; Hermione had made it 
+seemingly clear that she thought it would be a 
+wonderful place to live. 
+
+Page | 51 Harry Potter and the Philosophers Stone - J.K. Rowling 
+
+
+
+
+“I expect the first thing we will do is convert
+====================
+“I am going to see what they can do,” said Professor 
+McGonagall. “I must be one hundred and ninety-four 
+feet tall. ...” 
+
+“I am, Minerva,” said Dumbledore. 
+
+“Well, I think,” said Professor McGonagall. “I think 
+you will find that much more difficult if you are taller than 
+I am.” 
+
+“Well, I am,” said Dumbledore. 
+
+Professor McGonagall lowered her hands slightly 
+indistinctively and raised them into the air again. 
+
+“Well, I am sorry, Minerva,” she said. “I always 
+pretend I am taller.” 
+
+“Well, you are not mistaken,” said Professor 
+Dumbledore. “The common room is overflowing 
+with people this evening.” 
+
+“What sort of party are we having?” said Harry 
+curiously. 
+
+“That’s not the point,” said Professor McGonagall, 
+and she looked startled. “I mean, the big news this 
+
+Page | 451 Harry Potter and the Goblet of Fire - J.K. Rowling 
+
+
+
+
+night is that the Triwizard Tournament will be 
+ceiling.” 
+
+“The what?” 
+
+“The new age limit for wizards is collapsing,” 
+said Professor McGonagall. “Too many ages have 
+been competing, not all of them honorable, 
+and it’s getting out of hand. We must do what 
+is right, Dumbledore will insist on it. But we must 
+do it quickly, Minerva, because there are a 
+number of important subjects we must cover 
+before we can be sure that nobody has tampered 
+with our boards.” 
+
+“But those subjects,” said Harry impatiently, “they’ll 
+include — ” 
+
+“Do you think I can find a subject for the Triwizard 
+Tournament?” said Professor McGonagall, a 
+slightly twisted smile. “The Goblet of Fire, after all. 
+There’s a lot to choose from. You don’t want to go 
+sporting any of our subjects too badly, you know, 
+do you?” 
+
+“No,” said Harry. 
+
+“Well then, I suppose you could say that I picked the 
+subjects just because I was bored,” said Professor 
+McGonagall, a little irritably. “I think it would be 
+excellent for a serious business discussion, 
+Professor.” 
+
+“That’s a bit odd,” said Harry. He had just remembered 
+that he had not asked Professor Dumbledore whether 
+he could have a say in the subject of the Goblet of 
+Fire, but Professor McGonagall simply looked at him 
+as though she knew perfectly well he wanted to know 
+how he did. 
+
+“Is it okay if I ask you questions?” he asked. 
+
+“Certainly not,” she said, with a hint of impatience. 
+
+“You want to know how we got here, and why we’re 
+wanting to go to Hogwarts?” 
+
+
+
+Page | 452 
+
+
+
+Harry Potter and the Goblet of Fire - J.K. Rowling 
+
+
+
+
+“Oh, right. Well, you know all about the Triwizard 
+Tournament?” 
+
+“No,” said Harry. “No, I only met Ron and Hermione 
+and Dee yesterday.” 
+
+“Oh!” said Professor McGonagall, her cheeks pink 
+and her eyes popping. “Oh, you know — the two I 
+m-Met last time — ” 
+
+“What?” said Harry. 
+
+“The two I’m-Met?' shouted Professor McGonagall, 
+her cheeks reddening, her voice rising quickly. “Oh, I 
+thought you were going to tell me how you found 
+us!” 
+
+“Oh, no, of course not!” said Harry, his cheeks 
+throbbing with embarrassment as he remembered. 
+
+“Oh, all right then,” said Professor McGonagall, 
+
+====================
+“I don’t believe it,” she said. “We are in danger. I am frightened of 
+what we are facing.” 
+
+“But — ” 
+
+“In the same way,” she said. “You need to choose your 
+path. You need to understand what the danger is 
+before you can choose your course. You are dealing, 
+
+Page | 631 Harry Potter and the Deathly Hallows - J.K. Rowling 
+
+
+
+
+you are not dealing with an enemy, you are dealing 
+with a friend.” 
+
+“Yeah, I — ” 
+
+“You are dealing with a friend, and I can help you 
+with that,” said Dumbledore. “And I think that we 
+must agree that it is unwise to take your friend 
+too seriously. Harry, I am sure you will accept 
+that I am underestimating you, but only because you 
+are no more dangerous to me than Sirius.” 
+
+“I don’t — ” 
+
+“I think you may be a little bit like Sirius, Harry. I think 
+you are right. I think you are right about this, too. 
+
+You know what I mean.” 
+
+“Come off it, then,” he said. “You don’t think I’m 
+right, then?” 
+
+“No,” said Dumbledore, smiling still more broadly. 
+“You see, Harry? This is a matter of perspective. The 
+Death Eaters are not going to attack the people we 
+mentioned tonight. They are determined to make 
+sure that nobody is left in mortal danger. They will not 
+care about killing you, though. That is their goal. 
+They seek a world in which all are safe and 
+proud.” 
+
+“They seek what?” 
+
+“They seek the destruction of the false gods,” said 
+Dumbledore. “They seek the destruction of what they call 
+
+Page | 632 Harry Potter and the Deathly Hallows - J.K. Rowling 
+
+
+
+
+godlike beings. They seek the destruction of the 
+Parselmouth, the removal of the Cloak, and the 
+Conjunction of the Use of an Unapproved 
+Apparition Charm.” 
+
+“So,” Harry repeated, watching Dumbledore now 
+drawing a deep breath, “you see ... I’m right. ...” 
+
+“And I’m wrong,” said Dumbledore. “Yes, Harry, we both 
+understand. You are — are you?” 
+
+“Yes, I am.” 
+
+“Then we need a little more convincing,” said 
+Dumbledore. “You have our word that we will be 
+truthful and not foolhardy?” 
+
+“We can’t be sure,” said Harry. “That’s our 
+guarantee.” 
+
+“Then we must do your calculations, Harry,” said 
+Dumbledore, and his voice was higher and more 
+clear than ever before. “You have already done them, 
+you know, in our History of Magic class. We are not 
+far from the destination — the one we are all 
+seeking.” 
+
+“I know,” said Harry, whose eyes were popping with 
+sorrowful amusement. “Well, I’m off to find the — the 
+— the — Dumbledore!” 
+
+But he was distracted by something else, something more 
+amusing: the way the tall black-haired witch in 
+Witchcraft and Wizardry was talking. 
+
+“The — the wizard?” 
+
+“Yes,” said Dumbledore. “But not now.” 
+
+
+
+Page | 633 Harry Potter and the Deathly Hallows - J.K. Rowling 
+
+
+
+
+He turned to face Harry, who was looking from his 
+wand to Dumbledore, to his shield-tipped fingers 
+twisting in the air. 
+
+
+
+“Let me — ” 
+
+
+
+“Do not speak to me about Dark matters to the 
+Ministers of Magic!” 
+
+“But you’re — ” 
+
+“I’m not trying to
+====================
+Page | 521 Harry Potter and the Deathly Hallows - J.K. Rowling 
+
+
+
+
+“I daresay you’ll be able to find a way through, won’t 
+you?” 
+
+“What daresay?” 
+
+“Dumbledore trusts me. I’m sure of it.” 
+
+“Oh, Dumbledore!” 
+
+“I trust you too — very much,” said the man, and 
+Harry took a step closer. “There, there, now — ” 
+
+He opened his mouth, but closed it without speaking. 
+
+“ — the Cloak, yes,” said Dumbledore, and he pointed 
+with his thumb toward the corner of the circle. 
+
+“I wonder what you can tell us about the other Horcruxes?” 
+
+“Can we get rid of them?” 
+
+“No — but we can destroy them,” said Dumbledore. 
+
+“Why?” 
+
+“I believe that the other Horcruxes are hidden, perhaps 
+hidden beneath the most dangerous of our enemies — 
+the Death Eaters.” 
+
+“But we can destroy them?” asked Harry. “And how are we going 
+to find them?” 
+
+“Perhaps you are considering using the Cloak?” 
+
+Page | 522 Harry Potter and the Deathly Hallows - J.K. Rowling 
+
+
+
+
+“If it is, then I would not advise — ” 
+
+“ — it would be foolish to do so,” said Dumbledore. 
+
+“But we don’t need the Cloak,” Harry pressed him. 
+
+“I know that you are prepared to use it, Harry,” said 
+Dumbledore, and Harry felt his confidence increase. 
+
+“So why the Cloak?” 
+
+“I believe that we are protecting more than you can 
+possibly know,” said Dumbledore. “I believe that it is 
+the duty of every Hogwarts student to defend 
+themselves, and to be alert to the dangers 
+present in and around their schools. I believe that 
+the Cloak — which, as you will see, is made of 
+various materials, including human skin — gives the 
+student great comfort.” 
+
+“What d’you mean?” 
+
+“The Cloak, as you know, is a symbol of unity, of 
+connection, of belonging. It is the symbol of power, of 
+friendship, of confidence. It is the cloak you will be 
+using this year, Harry. And so it is that we will be 
+joining forces this year, not only to defend 
+your school, but to forge bonds of friendship between 
+the students of different schools. 
+
+“So, Harry,” said Dumbledore, after a moment or 
+two, “last year, you won’t be wearing the cloak?” 
+
+“No,” said Harry, smiling, because it was more 
+meaningful to say nothing than “yes” to Dumbledore’s 
+words than to have them repeated, and yet his 
+heart was beating very fast. 
+
+“This year,” Dumbledore went on, “you will be 
+wearing the cloak, and so will I. I know that it is the 
+most comfortable and stylish of your school robes, and 
+the symbol of Slytherin. I do not ask you to identify the 
+skinny cousin who will be bearing the banner of 
+the Dark Lord over these years. But I ask you to 
+
+Page | 523 Harry Potter and the Deathly Hallows - J.K. Rowling 
+
+
+
+
+stand guard, Harry, forever. Always.” 
+
+
+
+Harry nodded. 
+
+“I am your enemy, and you must never forget that.” 
+
+Dumbledore walked away, and Harry was on his 
+feet once more, but this time he had no desire 
+to run. He simply followed Dumbledore, and 
+as they turned into the entrance hall he saw something 
+quite different. 
+
+A hundred portraits of Slytherin House were lining the 
+entrance hall, each of them a little different. In 
+
+curved patterns, they stood in rows, seemingly to form a 
+wall. Harry wondered, for a moment, whether 
+Dumbledore had told them to form
+====================
+“But this is ... this is a joke!” said Harry angrily. “You 
+could say anything you like about it, I’m sure 
+you can say anything you like about it, but a joke 
+— you can’t call it that!” 
+
+“Don’t be silly,” snapped the other. “If you’ve got a 
+niffler, Harry, you can call it anything you like — ” 
+
+“I don’t care,” said Harry, “I don’t want to hear 
+anything you’ve got to put in there — ” 
+
+“Not my fault,” said the other. “You haven’t got a 
+niffler.” 
+
+“I don’t know,” said Harry, still angry, but not quite as 
+irritated. 
+
+“I expect you’ll understand, then, if I don’t say 
+anything,” said the other. “If I do anything, if I give 
+you detention, something’s gone wrong with the 
+letter.” 
+
+Page | 426 Harry Potter and the Deathly Hallows - J.K. Rowling 
+
+
+
+
+“It’s not the answer I want,” said Harry. “I want to 
+know why it’s happening, and how to fix it so 
+that it doesn’t happen again.” 
+
+“You want to know about dementors, then?” 
+
+“Well — they can transform, can’t they? They look 
+almost as bad as people who are possessed, they 
+transform at will ... but they are dangerous too. 
+They can cause madness, they can cause 
+disorientation, they can cause — ?” 
+
+“ — memory loss,” said Harry. 
+
+“ — just cause they fall off the face of the Earth, yeah, 
+they can!” 
+
+“But — ” 
+
+“Don’t be so ridiculous,” said Harry, “if it was just a 
+difference in the strength of the curse — if you wanted 
+to test it on yourself, you could do it under my 
+pants, couldn’t you?” 
+
+“I’m not trying to test myself on myself,” said Harry. 
+
+“Well, like I say, with a powerful wizard like you, you 
+can’t be completely sure, can you?” 
+
+“Yeah, I’m not trying to be proved wrong,” said Harry, 
+shaking his head. “But if you’re going to use a 
+dementor to break your way through a door, you’re 
+heading for disaster, just like they did with me.” 
+
+“You’re going to stick to the plan, are you?” 
+
+“Yehh will, I’m not asking you to keep me here forever! 
+
+
+
+Page | 427 Harry Potter and the Deathly Hallows - J.K. Rowling 
+
+
+
+
+“Just because I’m not going to use a spell to get out of 
+here 
+
+doesn’t mean I can’t still use a curse to get past a 
+dementor — ” 
+
+“That’s right, it’s the same as asking me to carry a 
+dementor to the moon!” 
+
+“You think you know better than I do, then?” 
+
+“ Yeah, I do, but — ” 
+
+“ — you’ve got to finish the job, Harry!” 
+
+“I’m not asking you to do it!” 
+
+“I’ve been doing it for years, remember?” 
+
+“Yeah, but if I need to use a spell to get past a 
+dementor — ” 
+
+“The only reason you’re not winning is because you 
+used a superior curse.” 
+
+“Yeah, but you’re not putting it past me!” 
+
+“I’m the best Defense Against the Dark Arts 
+teacher in the school, Harry!” 
+
+�
+====================
+“I will take your word for it, Verity,” said Moody, “but 
+be warned, Potter. The Ministry is still looking for 
+several students who may have broken into the 
+Academy. I will be checking your reports to make sure 
+you are on the safe side.” 
+
+Moody turned back to Flitwick, who was now 
+sitting on one of the couches with her back to him. 
+
+“So, Potter ... what can I say? You’ve got a badge?” 
+
+“A what?” said Harry. 
+
+“A Veritaserum,” said Moody, with an air of 
+exaggeration. “A badge — and you’ll have it back, 
+Potter. If you’re not feeling up to a thorough explanation, 
+well, we’ll do that, shall we?” 
+
+He turned to Hermione. 
+
+“What do you think about this, Granger?” 
+
+“I think it’s brilliant!” said Hermione eagerly; 
+her excitement could not be doubted. 
+
+Page | 260 Harry Potter and the Goblet of Fire - J.K. Rowling 
+
+
+
+
+“But I also think there’s a problem with it,” said 
+Moody. “If you’re going to wear it, and you’ve got 
+the pastel pink ribbon around it, everyone will 
+think you’re wearing it in a way that shows off a 
+good bit of your face. It could lead to a 
+contamination — ” 
+
+“Absolutely,” said Hermione at once. “I don’t 
+think there should be such things, it just — ” 
+
+“Potter, you know what?” roared Moody. “I think a 
+very handsome boy like you ought to be covered in 
+something other than paint,” he added, and 
+Everyone Suffocated Screams and Exclamations 
+arrived, all around Hermione, who looked overwhelmed. 
+
+“Oh, Harry!” 
+
+“You was being a bit unfair, Moody,” Hermione 
+shouted. “You just don’t like the Gryffindors 
+much either.” 
+
+“I don’t like anyone at all,” said Harry flatly. 
+
+Moody took an extra long draw and blew the trumpet 
+aside. The atmosphere changed. Now everyone was 
+standing up and turning to watch Moody’s next 
+movement — he had just shown the pink ribbon 
+to Ron and Hermione. 
+
+“Reverse it,” said Moody as he flicked his wand. 
+
+A silver net fell across Ron’s back, and he was 
+attempting to pull it off with his wand. 
+
+“Moody!” shrieked Professor McGonagall. “Moody! 
+Moody!” 
+
+She pointed her wand at him and he flew off 
+through the air toward the castle. 
+
+Page | 261 Harry Potter and the Goblet of Fire - J.K. Rowling 
+
+
+
+
+“Harry Potter,” McGonagall called loudly over the 
+howling wind, “Reverse it, Potter!” 
+
+“No!” shouted Professor McGonagall. 
+
+She had pulled off the ribbon covering his badge and 
+he had flown straight through it, his hair 
+rattling and his robes ruffling as he rose through 
+the air. 
+
+“Reverse it and go!” she cried. 
+
+He had no choice but to fly through the air with his 
+arms bent at a terrible angle, his head banging 
+against the castle wall. 
+
+“Reverse it!” she shouted, and wind whistled through 
+the gaps in the castle ceiling. “Moody!” 
+
+He had no choice but to fly through the air again, 
+his head banging horribly, and the sound of the 
+wind whistling through the gaps in the ceiling 
+trailed him. He was flying through nothing, but 
+the wind was stronger than ever, and worse than 
+ever. 
+
+“Moody, stop it!” Professor McGonagall shouted, 
+but he
+====================
+“No, Potter, we’re not,” said an angry voice. 
+
+Page | 172Harry Potter and the Order of the Phoenix - J.K. Rowling 
+
+
+
+
+Professor McGonagall came striding toward them out of 
+the crowd and said, “What is that you are talking 
+about?” 
+
+“We saw him, Professor,” said Harry, “with his mum 
+and dad! We saw him right after — ” 
+
+“Potter!” said Professor McGonagall impatiently. “Why don’t 
+you tell them that, please?” 
+
+“ — he asked me, Professor!” 
+
+“Please, please, I need to speak to him — ” 
+
+“ — and he asked me, Professor!” 
+
+“Do you really think I don’t recognize a — a ‘Potter’ at 
+all?” 
+
+“Yes, I do!” 
+
+“You’ve been looking very foolish!” 
+
+“What nonsense!” 
+
+“Potter, you know perfectly well who the people in the 
+candle are!” 
+
+“Fine!” said Professor McGonagall shrilly. “I’m 
+with Professor Dumbledore!” 
+
+“Who are you, then?” 
+
+“I am a teacher appointed by the governors!” 
+
+“Oh, come on!” said Professor McGonagall, 
+prowling around a little nervously for a better 
+look. “Look, he’s talking about closing the school 
+— about closing it? He wants to get rid of 
+some of our old pupils!” 
+
+“Don’t go making things worse for him,” said 
+Professor McGonagall, looking very shocked. “I’m 
+with Dumbledore.” 
+
+
+
+Page | 173Harry Potter and the Order of the Phoenix - J.K. Rowling 
+
+
+
+
+“Well,” said Harry, honestly, he did not know whether he 
+was going to get an opinion from her or not, but he 
+wanted to get her out of this at least. “I’m with 
+Dumbledore, of course.” 
+
+“You’re with him, because he wants to get rid of some 
+of our old pupils?” 
+
+“Look, he’s had it with the management, he wants to 
+get rid of his old headmistress and he wants to 
+get rid of his old potions master and he wants to 
+get rid of the whole Ministry of Magic bureaucracy. 
+And he’s given himself an ambitious new mission — to 
+find out how much the Ministry of Magic is paying 
+in taxes and, well, I couldn’t be more delighted if he 
+broke the whole thing wide open and told us all how 
+much he makes!” 
+
+“But — Professor,” said Harry quickly, “Professor 
+Dumbledore says the Ministry of Magic is — ” 
+
+“Hear, hear!” said Professor McGonagall in a 
+burst of fire. 
+
+“Yes, it’s all right,” said Harry, in relief, but she 
+continued to look suspiciously at him. Finally she 
+said, “And this is supposed to be just a friendly 
+joke between us, Potter?” 
+
+“No, we’re serious,” said Harry quickly, and she 
+hoisted her handbag so quickly that it hit the 
+ceiling. 
+
+“Potter, we don’t know whether you’re going to come 
+to Hogwarts or not,” Professor McGonagall 
+continued briskly. “You could be expelled for 
+whatever reason, you could lose your head.” 
+
+Page | 174Harry Potter and the Order of the Phoenix - J.K. Rowling 
+
+
+
+
+Harry understood instantly. He had just seen her 
+evaluate him as she walked away. He made a 
+quick decision, and he presented him with an 
+Acceptable’ badge on top of his Gryffindor uniform. 
+
+“Thank you so much,” Professor McGonagall said, as 
+she left the staffroom.
+====================
